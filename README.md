@@ -37,8 +37,8 @@ type MainPageEx(target:MainPage) =
 
 # Note
 
-図
-[pic]: http://github.com/moonmile/SimpleEventTypeProvider/doc/image1.png
+![Alt fig](/doc/image1.png)
+
 
 TypeProvider is Native Library for Windows. But Xamarin.Forms is PCL, Is it inconsistent NETCore / mscorlib in need ?
 
