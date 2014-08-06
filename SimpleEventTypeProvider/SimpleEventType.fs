@@ -7,7 +7,6 @@ open System.Reflection
 [<assembly:TypeProviderAssembly>]
 do ()
 
-
 type MyButton() =
 
     let event1 = new Event<_>()

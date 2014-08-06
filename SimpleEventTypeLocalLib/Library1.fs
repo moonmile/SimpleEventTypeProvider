@@ -24,6 +24,6 @@ type MainPageEx(target:MainPage) =
        // この時点で、Xamarin.Forms の型が参照されて静的リンクエラーになる
        xpcl.Clicked |> Event.add( fun e ->())
 
+       let btn = new Xamarin.Forms.Button()
        ()
-
         
