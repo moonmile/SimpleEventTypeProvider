@@ -38,7 +38,7 @@ type MainPageEx(target:MainPage) =
 # Note
 
 図
-[](doc/image1.png)
+[pic](/doc/image1.png)
 
 TypeProvider is Native Library for Windows. But Xamarin.Forms is PCL, Is it inconsistent NETCore / mscorlib in need ?
 
